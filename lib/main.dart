@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
             children: [
                 Container(
                   height: 100,
-                   decoration: BoxDecoration(color: Colors.red[1200]),
+                   decoration: BoxDecoration(color: Colors.red[900]),
                   child: Row(
                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
